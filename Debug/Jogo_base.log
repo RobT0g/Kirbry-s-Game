@@ -1,0 +1,6 @@
+﻿  Colision.cpp
+D:\Users\robso\Downloads\Backup\Estudo\Programação\C++\Jogo\Testes\Jogo_base\Colision.cpp(14,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Users\robso\Downloads\Backup\Estudo\Programação\C++\Jogo\Testes\Jogo_base\Colision.cpp(112,21): warning C4018: '<': incompatibilidade de signed/unsigned
+  Jogo_base.cpp
+  Gerando Código...
+  Jogo_base.vcxproj -> D:\Users\robso\Downloads\Backup\Estudo\Programação\C++\Jogo\Testes\Jogo_base\Debug\Jogo_base.exe
